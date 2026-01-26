@@ -82,7 +82,7 @@ Day-XX_Project-Name/
 ├── README.md
 ├── simulation-link.txt
 ├── circuit.png
-└── code.ino / main.py
+└── code.ino 
 ```
 ## 🛠️ Components Used
 
