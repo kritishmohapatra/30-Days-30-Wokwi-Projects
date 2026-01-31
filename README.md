@@ -42,7 +42,7 @@ in a **simple and structured way**, without requiring any physical hardware.
 
 ## 2. [Arduino LED Blink](Arduino_LED_Blink_(Digital_Output_Example)/README.md) ✅
 
-3. Traffic light system  
+## 3. [Traffic Light System](Traffic_Light_System_using_Arduino/README.md) ✅
 4. Buzzer ON/OFF  
 5. LED brightness control  
 6. Push button counter  
