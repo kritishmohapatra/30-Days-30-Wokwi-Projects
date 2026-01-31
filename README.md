@@ -40,7 +40,8 @@ in a **simple and structured way**, without requiring any physical hardware.
 ### 🔰 Beginner (Day 1–10)
 ## 1. [LED ON/OFF using Button](Arduino_LED_Control_(Basic_Output_Example)/README.md) ✅
 
-2. Blinking LED  
+## 2. [Arduino LED Blink](Arduino_LED_Blink_(Digital_Output_Example)/README.md) ✅
+
 3. Traffic light system  
 4. Buzzer ON/OFF  
 5. LED brightness control  
